@@ -3,11 +3,11 @@ pip install django
 
 # To execute 
 - Move to the folder root directly 
-- Execute: python manage.py runserver
+- Execute: PYTHONUNBUFFERED=1 python manage.py runserver
 
 # To run tests
 - Move to the folder root directly
-- Execute: python manage.py test boardingpasssorterapp.tests
+- Execute: PYTHONUNBUFFERED=1 python manage.py test boardingpasssorterapp.tests
 
 
 # REST API Details
