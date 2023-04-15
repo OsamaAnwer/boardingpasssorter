@@ -1,0 +1,30 @@
+{
+    "boardingPasses": [
+        {
+            "type": "FLIGHT",
+            "source": "Gerona Airport",
+            "destination": "Stockholm",
+            "flightNumber": "SK455",
+            "gateNumber": "45B",
+            "seatNumber": "3A",
+            "flightType": "Normal",
+            "baggageCounter": "344"
+        },
+        {
+            "type": "TRAIN",
+            "source": "Madrid",
+            "destination": "Barcelona",
+            "trainNumber": "78A",
+            "seatNumber": "45B"
+        },
+        {
+            "type": "FLIGHT",
+            "source": "Stockholm",
+            "destination": "New York",
+            "flightNumber": "SK22",
+            "gateNumber": "22",
+            "seatNumber": "7B",
+            "flightType": "Connecting"
+        }
+    ]
+}
